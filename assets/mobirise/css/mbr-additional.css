@@ -411,9 +411,18 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header6-s .mbr-section-title {
-  color: #28262b;
+#msg-box3-13 .mbr-section-title,
+#msg-box3-13 p {
+  color: #000;
 }
-#header6-s .mbr-section-text {
-  color: #565656;
+#content8-14 .mbr-section-title,
+#content8-14 p {
+  text-align: right;
+  color: #fff;
+}
+#msg-box5-w P {
+  text-align: left;
+}
+#features1-11 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
